@@ -1,0 +1,30 @@
+body {
+    background-color: #2E3E4E;
+}
+h1 {
+    color: white;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.horizontal-menu {
+    background-color: #37495D;
+}
+.horizontal-menu ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+.horizontal-menu ul li {
+    display: inline-block;
+}
+.horizontal-menu ul li a {
+    display: block;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-decoration: none;
+}.horizontal-menu ul li a:hover {
+    background-color: #E94C39;
+}
